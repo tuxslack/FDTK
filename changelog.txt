@@ -1,0 +1,48 @@
+# Changelog
+
+
+Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
+
+
+Cada versão está identificada com um número de versão e uma data de lançamento. As 
+mudanças são agrupadas por tipo (Adicionado, Modificado, Corrigido, Não Corrigido) para 
+facilitar a leitura. As alterações dentro de cada seção são listadas em ordem cronológica, 
+da mais recente para a mais antiga e as mudanças estão descritas.
+
+
+------------------------------------------------------------------------------------------
+
+## [0.0.2] - 2024-08-21
+
+### Modificado
+
+- Testado no Void Linux com XFCE 4.18
+- Aprimoramentos para o XFCE (criação de entrada no menu iniciar do XFCE semelhante ao ubuntu-9.04.1-desktop-i386.iso).
+- Criação de novas entradas no menu do XFCE para programas e scripts novos.
+- Alterado os tamanhos das telas de dialogo para um padrão fixo.
+- Trocado Zenity para o Yad nos scripts.
+
+
+### Não Corrigido
+
+- Problema no script /usr/local/bin/fdtk/lynis.sh
+  Bug no comando lynis -h esta gerando "caracteres estranhos" no arquivo de texto $comando.help.
+
+------------------------------------------------------------------------------------------
+
+## [0.0.1] - 2010-05-18
+
+### Adicionado
+
+- Lançamento inicial da FDTK-UbuntuBr (ubuntu-9.04.1-desktop-i386.iso) criada por Paulo Alberto Neukamp.
+
+  Ubuntu   9.04
+  Gnome    2.26.1 - data de compilação 06-05-2009
+  Nautilus 2.26.2
+
+
+------------------------------------------------------------------------------------------
+
+
+
+
