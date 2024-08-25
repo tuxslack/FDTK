@@ -6,3 +6,6 @@ A utilização de softwares livres no processo de obtenção e análise de evid�
 FTDK-UbuntuBr foi a primeira distribuição Linux totalmente voltada para a prática Forense Computacional em português do Brasil.
 
 Esse é o produto final de meses de trabalho para atualizar, e aqueles que estiverem com interesse em contribuir, toda ajuda é bem vinda para lançar novas versões em um futuro próximo. 
+
+
+[Playlist sobre FDTK](https://www.youtube.com/@fernandosuporte/playlists).
